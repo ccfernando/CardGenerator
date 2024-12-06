@@ -12,3 +12,4 @@ This Java project generates four random cards from a standard 52-card deck and d
 - Ensures no duplicate cards are displayed at once.
 
 ---
+![image](https://github.com/user-attachments/assets/dd84370d-51e1-4c40-ac93-56c489fc069e)
